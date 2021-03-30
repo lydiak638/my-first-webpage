@@ -1,0 +1,17 @@
+h1 {
+    color: blueviolet;
+    text-align: center;
+}
+h2 {
+    color: brown;
+    font-style: inherit;
+    text-align: center;
+}
+p {
+    font-family: sans-serif;
+    background-color: burlywood;
+    font-style: italic;
+}
+ul {
+    line-height: 45px;
+}
